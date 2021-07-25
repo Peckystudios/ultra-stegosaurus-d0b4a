@@ -62,7 +62,7 @@ sections:
       arrow: true
 seo:
   title: Goodnotes ALL IN ONE
-  description: Goodnotes All-in-one
+  description: Goodnotes All-in-one place
   extra:
     - name: 'og:type'
       value: website
