@@ -61,8 +61,8 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: Goodnotes ALL IN ONE
+  description: Goodnotes All-in-one place
   extra:
     - name: 'og:type'
       value: website
