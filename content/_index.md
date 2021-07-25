@@ -62,7 +62,7 @@ sections:
       arrow: true
 seo:
   title: Goodnotes stickers
-  description: The preview of the Planty theme
+  description: Goodnotes All-in-one
   extra:
     - name: 'og:type'
       value: website
