@@ -61,7 +61,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Goodnotes stickers
+  title: Goodnotes ALL IN ONE
   description: Goodnotes All-in-one
   extra:
     - name: 'og:type'
