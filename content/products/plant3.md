@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '0'
 title: 002-vintage obect
 description: 002-vintage obect
 default_thumbnail_image: images/plant3.jpg
