@@ -1,5 +1,5 @@
 ---
-title: Good
+title: Goodnotes Template
 layout: category
 order: 3
 seo:
