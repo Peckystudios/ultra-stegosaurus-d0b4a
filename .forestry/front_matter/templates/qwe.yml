@@ -52,3 +52,5 @@ fields:
     - type: text
       name: keyName
       label: keyName
+pages:
+- content/products/123.md
