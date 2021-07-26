@@ -1,0 +1,54 @@
+---
+label: qwe
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: id
+  label: id
+- type: text
+  name: price
+  label: price
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: default_thumbnail_image
+  label: default_thumbnail_image
+- type: file
+  name: default_original_image
+  label: default_original_image
+- type: number
+  name: order
+  label: order
+- type: text
+  name: category
+  label: category
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: extra
+    label: extra
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: value
+      label: value
+    - type: text
+      name: keyName
+      label: keyName
