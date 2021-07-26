@@ -1,5 +1,5 @@
 ---
-title: Goodnotes stickers
+title: Goodnotes Stickers
 layout: category
 order: 2
 seo:
