@@ -6,7 +6,7 @@ title: 001-Vintage object
 default_thumbnail_image: images/Preview.png
 default_original_image: images/Preview.png
 featured: true
-order: 10
+order: 0
 category: content/category/bigplants.md
 seo:
   title: Nulla suscipit
