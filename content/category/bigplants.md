@@ -1,5 +1,5 @@
 ---
-title: Goonotes S
+title: Goodnotes S
 layout: category
 order: 1
 seo:
