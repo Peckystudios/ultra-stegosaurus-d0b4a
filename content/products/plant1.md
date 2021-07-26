@@ -1,16 +1,12 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
-title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+price: '0'
+title: 001-Vintage object
 default_thumbnail_image: images/Preview.png
 default_original_image: images/Preview.png
 featured: true
-order: 1
+order: 0
 category: content/category/bigplants.md
 seo:
   title: Nulla suscipit
@@ -38,6 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
+description: 001-Vintage object
 ---
 
 # Nulla suscipit
