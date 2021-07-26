@@ -7,7 +7,7 @@ description: 002-vintage obect
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
-order: 3
+order: 0
 category: content/category/cactuses.md
 seo:
   title: Curabitur eu tempor
