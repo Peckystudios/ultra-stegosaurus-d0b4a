@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Goonotes S
 layout: category
 order: 1
 seo:
