@@ -34,6 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
+description: 001-Vintage object
 ---
 
 # Nulla suscipit
