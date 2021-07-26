@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '1'
+id: '001'
 price: '0'
 title: 001-Vintage object
 default_thumbnail_image: images/Preview.png
