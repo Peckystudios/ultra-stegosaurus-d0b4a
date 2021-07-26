@@ -3,10 +3,6 @@ layout: product
 id: '1'
 price: '0'
 title: 001-Vintage object
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
 default_thumbnail_image: images/Preview.png
 default_original_image: images/Preview.png
 featured: true
