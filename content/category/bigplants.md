@@ -27,5 +27,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-title: 002-vintage obect
+title: Goodnotes Stickers
 ---
