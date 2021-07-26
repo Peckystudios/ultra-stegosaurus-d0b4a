@@ -7,7 +7,7 @@ description: 002-vintage obect002-vintage obect
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
-order: 5
+order: 0
 category: content/category/bigplants.md
 seo:
   title: Vestibulum eget
