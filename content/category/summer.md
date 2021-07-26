@@ -3,8 +3,8 @@ title: Goodnotes Stickers
 layout: category
 order: "1"
 seo:
-  title: Summer plants
-  description: This is the store page
+  title: Goodnotes Stickers
+  description: Goodnotes Stickers
   extra:
   - name: og:type
     value: website
