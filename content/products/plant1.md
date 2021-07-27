@@ -7,7 +7,8 @@ default_thumbnail_image: images/Preview.png
 default_original_image: images/Preview.png
 featured: true
 order: "0"
-category: []
+data-item-file-guid: 03fa0dbe-7c65-46c5-9127-809be768c7a7
+category: content/category/GoodnotesStickers.md
 seo:
   title: Nulla suscipit
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
