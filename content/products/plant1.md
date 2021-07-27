@@ -7,6 +7,7 @@ default_thumbnail_image: images/Preview.png
 default_original_image: images/Preview.png
 featured: true
 order: 0
+GUID: 
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
