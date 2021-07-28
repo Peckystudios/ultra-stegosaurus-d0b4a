@@ -5,6 +5,7 @@
     data-item-name="{{ $product_page.Title }}"
     data-item-url="{{ $product_page.URL }}"
     data-item-price="{{ $product_page.Params.price }}"
+    data-item-file-guid="{{ $product_page.Params.GUID }}"
     {{ if $product_page.Params.category }}
         {{ $category_page := $.Site.GetPage "page" ( $product_page.Params.category | strings.TrimPrefix "content/" ) }}
         data-item-categories="{{ $category_page.Title }}"
