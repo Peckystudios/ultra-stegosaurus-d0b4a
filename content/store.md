@@ -6,24 +6,23 @@ sections:
     section_id: store_section
   - type: featured_products_section
     section_id: featured_products_section
-    title: Best sellers
+    title: Recommand
     icon: true
     featured_products:
-      - content/products/plant1.md
-      - content/products/plant3.md
-      - content/products/plant5.md
-      - content/products/plant7.md
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
+      - content/products/001-Vintage object.md
+      - content/products/002-basic-PaperShapes.md
+      - content/products/003-basic-GradientShapes.md
+  # - type: promotion_section
+  #   section_id: promotion_section
+  #   title: A new home interior for summer
+  #   subtitle: from $149.99
+  #   image: images/promo.jpg
+  #   background_image: /images/leaf.svg
+  #   cta:
+  #     title: Discover
+  #     url: /store
+  #     style: secondary
+  #     arrow: true
 seo:
   title: Store
   description: This is the store page
